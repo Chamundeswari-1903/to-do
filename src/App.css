@@ -14,8 +14,7 @@ h1 {
   backdrop-filter: blur(5px);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
 .container {
   display: grid;
